@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "decesion_tree", "decesion_tree\decesion_tree.pyproj", "{B0C2776B-71B8-428C-9C7E-8543B2D6680C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0C2776B-71B8-428C-9C7E-8543B2D6680C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0C2776B-71B8-428C-9C7E-8543B2D6680C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DC389DC-7A46-4689-8B1F-EE648F8A59CB}
+	EndGlobalSection
+EndGlobal
